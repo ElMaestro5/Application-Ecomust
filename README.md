@@ -7,13 +7,20 @@ Ecomust offers of discounts for employees at the largest brands.
 
 -------------------
 
-example :
 
-  1. Found vulnerabilities 
+  1. Main Menu
+    a. IOS                                                  b. Android
+       ![subscribe example](./image/Main.png)                  ![subscribe example](./image/Main.png)
 
-![subscribe example](./image/Main.png)
+  2. Partner of Saint Nazaire 
 
-  2. Not Found vulnerabilities 
+![subscribe example](./image/notfound.png)
+
+  3. Partner of Tarbes
+
+![subscribe example](./image/notfound.png)
+
+  3. If you want to contact us
 
 ![subscribe example](./image/notfound.png)
 
