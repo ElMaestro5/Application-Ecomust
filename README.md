@@ -7,10 +7,6 @@ Ecomust offers of discounts for employees at the largest brands.
 
 -------------------
 
-<div class="text-white bg-blue mb-2">
-  .text-white on .bg-blue
-</div>
-
   1. *Main Menu*
       * **IOS**
      >![subscribe example](./image/notfound.png)
