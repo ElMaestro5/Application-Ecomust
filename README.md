@@ -9,10 +9,10 @@ Ecomust offers of discounts for employees at the largest brands.
 
 
   1. Main Menu
-  a. IOS
- ![subscribe example](./image/Main.png)
-  b. Android
- ![subscribe example](./image/Main.png)
+      * IOS
+     >![subscribe example](./image/notfound.png)
+      * Android
+     >![subscribe example](./image/notfound.png)
 
   2. Partner of Saint Nazaire 
 
