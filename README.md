@@ -1,7 +1,13 @@
 # Application Ecomust
-### (React Native)
+
 
 Ecomust offers of discounts for employees at the largest brands.
+
+**Name** : Ecomust
+>**Company** : Edition Le Goéland 
+>**Framework** : React Native
+**Location** : France
+**Author** : Hugo Diaz
 
 
 ## Screenshots
