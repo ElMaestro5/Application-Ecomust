@@ -16,29 +16,29 @@ Ecomust offers of discounts for employees at the largest brands.
 
   1. *Main Menu*
       * **IOS**
-     >![subscribe example](./image/notfound.png)
+     >![subscribe example](./images/IOS/SN1.png)
       * **Android**
-     >![subscribe example](./image/notfound.png)
+     >![subscribe example](./images/Android/SN1.png)
      
       * **IOS**
-     >![subscribe example](./image/notfound.png)
+     >![subscribe example](./images/IOS/SN2.png)
       * **Android**
-     >![subscribe example](./image/notfound.png)
+     >![subscribe example](./images/Android/SN2.png)
      
       * **IOS**
-     >![subscribe example](./image/notfound.png)
+     >![subscribe example](./images/IOS/SN3.png)
       * **Android**
-     >![subscribe example](./image/notfound.png)
+     >![subscribe example](./images/Android/SN3.png)
      
       * **IOS**
-     >![subscribe example](./image/notfound.png)
+     >![subscribe example](./images/IOS/SN4.png)
       * **Android**
-     >![subscribe example](./image/notfound.png)
+     >![subscribe example](./images/Android/SN4.png)
      
       * **IOS**
-     >![subscribe example](./image/notfound.png)
+     >![subscribe example](./images/IOS/SN5.png)
       * **Android**
-     >![subscribe example](./image/notfound.png)
+     >![subscribe example](./images/Android/SN5.png)
      
 
   2. *Partner of Saint Nazaire* 
