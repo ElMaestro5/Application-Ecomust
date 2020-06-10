@@ -15,30 +15,35 @@ Ecomust offers of discounts for employees at the largest brands.
 -------------------
 
   1. *Main Menu*
+      >**A.**
       * **IOS**
-     >![subscribe example](./images/IOS/SN1.PNG =250x250)
+     ><img src="./images/IOS/SN1.PNG" width="200" height="400" />
       * **Android**
-     >![subscribe example](./images/Android/SN1.PNG)
+     ><img src="./images/Android/SN1.jpg" width="200" height="400"/>
+      
+      >**B.**
+      * **IOS**
+     ><img src="./images/IOS/SN2.PNG" width="200" height="400" />
+      * **Android**
+     ><img src="./images/Android/SN2.jpg" width="200" height="400" />
      
+      >**C.**
       * **IOS**
-     >![subscribe example](./images/IOS/SN2.png)
+     ><img src="./images/IOS/SN3.PNG" width="200" height="400" />
       * **Android**
-     >![subscribe example](./images/Android/SN2.png)
+     ><img src="./images/Android/SN3.jpg" width="200" height="400" />
      
+      >**D.**
       * **IOS**
-     >![subscribe example](./images/IOS/SN3.png)
+     ><img src="./images/IOS/SN4.PNG" width="200" height="400" />
       * **Android**
-     >![subscribe example](./images/Android/SN3.png)
-     
+     ><img src="./images/Android/SN4.jpg" width="200" height="400" />
+      
+       >**E.**
       * **IOS**
-     >![subscribe example](./images/IOS/SN4.png)
+     ><img src="./images/IOS/SN5.PNG" width="200" height="400" />
       * **Android**
-     >![subscribe example](./images/Android/SN4.png)
-     
-      * **IOS**
-     >![subscribe example](./images/IOS/SN5.png)
-      * **Android**
-     >![subscribe example](./images/Android/SN5.png)
+     ><img src="./images/Android/SN5.jpg" width="200" height="400" />
      
 
   2. *Partner of Saint Nazaire* 
