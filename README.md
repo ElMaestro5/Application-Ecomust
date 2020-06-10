@@ -16,7 +16,7 @@ Ecomust offers of discounts for employees at the largest brands.
 
   1. *Main Menu*
       * **IOS**
-     >![subscribe example](./images/IOS/SN1.PNG)
+     >![subscribe example](./images/IOS/SN1.PNG =250x250)
       * **Android**
      >![subscribe example](./images/Android/SN1.PNG)
      
