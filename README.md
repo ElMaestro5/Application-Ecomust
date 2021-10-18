@@ -4,7 +4,7 @@
 Ecomust offers of discounts for employees at the largest brands.
 
 **Name** : Ecomust </br>
-**Company** : Edition Le Goéland </br>
+**Company** : Edition Le Goeland </br>
 **Framework** : React Native </br>
 **Location** : France </br>
 **Author** : Hugo Diaz </br>
